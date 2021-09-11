@@ -1,5 +1,5 @@
 # SOLID
-Projeto modelo para estudo dos princípios do SOLID. Com exemplos de violação e como solucionar.
+Projeto modelo para estudo dos princípios do SOLID. Com exemplos de violação e como solucionar. Essas anotações fazem parte do curso "Fundamentos de arquitetura dde Software" ministrado pelo Microsoft MVP Eduardo Pires (desenvolverdor.io).
 
 Ao aplicar o SOLID é possível obter benefícios, tais como: 
 
